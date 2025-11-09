@@ -1,0 +1,8 @@
+rasterio
+geopandas
+numpy
+matplotlib
+rasterstats
+richdem
+pandas
+notebook
