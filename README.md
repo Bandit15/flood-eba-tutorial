@@ -60,4 +60,4 @@ flood-eba-tutorial/
 ## 🧠 Author
 **Your Name**  
 GIS & Climate Resilience Analyst – Vientiane, Lao PDR  
-[LinkedIn](https://linkedin.com/in/yourprofile)
+[BANDIT](https://bandit15.github.io/Portfolio/)
